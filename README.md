@@ -1,7 +1,3 @@
-
-https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/80f2361d-2323-4982-a58c-6bc87a1e2e59
-
-https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/ae3385ac-0626-4a26-815e-b495590ef0b3
 ## 光を走らせる
 
 主にシェーダを使ってループアニメーションを実装します。
