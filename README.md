@@ -8,15 +8,7 @@
 
 ![結果画像3](result1_3.gif)
 
-
-
-
-
 https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/cddb5d0b-5b9f-4ad0-9dc7-0b4994b81364
-
-
-Uploading movie_001.mp4…
-
 
 ![オリジナルシェーダーグラフ](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/56fb711f-f51c-4ee0-9fbc-4a2e55293951)
 
