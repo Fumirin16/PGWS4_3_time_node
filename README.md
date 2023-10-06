@@ -1,3 +1,7 @@
+
+https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/80f2361d-2323-4982-a58c-6bc87a1e2e59
+
+https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/ae3385ac-0626-4a26-815e-b495590ef0b3
 ## 光を走らせる
 
 主にシェーダを使ってループアニメーションを実装します。
@@ -8,14 +12,15 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](result1.gif)
+![結果画像](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/139d4b42-4dcf-4f81-aa63-450ed7e58778)
 
-![シェーダグラフ](node_graph1.png)
+![オリジナルシェーダーグラフ](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/56fb711f-f51c-4ee0-9fbc-4a2e55293951)
 
 # 自分なりに変更した点
--
--
--
+-新たにシェーダーグラフを作り、Sphreを虹色にした。
+-Fractionノードを追加して虹色をループするようにした。
+-Hello World！を右から左へ違和感ないようにした。
+-Sphreを封印しているかのように円で囲ってゆっくりと回転させてそのように見せた。
 
 # 進め方
 
