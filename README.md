@@ -8,14 +8,17 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/139d4b42-4dcf-4f81-aa63-450ed7e58778)
+
+
+
+
+https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/cddb5d0b-5b9f-4ad0-9dc7-0b4994b81364
 
 
 Uploading movie_001.mp4…
 
 
 ![オリジナルシェーダーグラフ](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/56fb711f-f51c-4ee0-9fbc-4a2e55293951)
-![スクリーンショット (133)](https://github.com/Fumirin16/PGWS4_3_time_node/assets/90897959/b1d76f47-585a-433c-be88-210a34069328)
 
 # 自分なりに変更した点
 -新たにシェーダーグラフを作り、Sphreを虹色にした。
